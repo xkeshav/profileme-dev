@@ -36,3 +36,5 @@ yarn-error.log*
 # IDE
 .idea
 yarn.lock
+*.code-workspace
+.vscode/*8
